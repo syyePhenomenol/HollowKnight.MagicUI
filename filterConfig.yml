@@ -2,3 +2,6 @@
 - exclude:
     uidRegex: ^MagicUI$
     type: Namespace
+- exclude:
+    hasAttribute:
+        uid: System.ObsoleteAttribute
